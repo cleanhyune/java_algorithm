@@ -21,16 +21,9 @@ public class V_연속된_자연수의_합 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int[] array = new int[n];
-        for(int i=0; i<n; i++) {
-            array[i] = sc.nextInt();
-        }
-        solve(array);
-
     }
 
     public static void solve(int[] array) {
-        int answer = 0;
 
     }
 
